@@ -1,13 +1,19 @@
 ### Hi there 👋
 I'm Onyekachiii, friends call me Kachiii!
 
+![image](https://github.com/Onyekachiii/Onyekachiii/assets/138848894/43801eca-7399-4df0-a1c5-597dee5246df) https://www.linkedin.com/onyeka-okpalaugo
+- 🌱 I’m currently learning ![image](https://github.com/Onyekachiii/Onyekachiii/assets/138848894/db4592cd-744d-452b-96ab-bb3e95f72de2), ![image](https://github.com/Onyekachiii/Onyekachiii/assets/138848894/25a3ac09-03f1-4aea-a61a-2468f80013a5)
+
+
+
+
 <!--
 **Onyekachiii/Onyekachiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
